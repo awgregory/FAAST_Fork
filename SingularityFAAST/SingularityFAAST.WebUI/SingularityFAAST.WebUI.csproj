@@ -170,7 +170,6 @@
       <SubType>Designer</SubType>
     </Content>
     <Content Include="Scripts\Reports\ReportRange.js" />
-    
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
@@ -190,7 +189,6 @@
     <Content Include="Views\web.config" />
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
-    <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\InventoryItem\IndexInventory.cshtml" />
     <Content Include="Views\InventoryItem\NewInventoryItem.cshtml" />
     <Content Include="Views\InventoryItem\ViewAllOnLoanInv.cshtml" />
@@ -213,6 +211,7 @@
     <Content Include="Views\Report\ClientReport.cshtml" />
     <Content Include="Scripts\jquery-ui-1.12.1.custom\package.json" />
     <Content Include="Views\Loan\CheckInRenewal.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
